@@ -1,3 +1,0 @@
-var discord = require('discord-bot-webhook');
-discord.hookId = 'PutHookIdHere';
-discord.hookToken = 'PutTokenHere';
